@@ -1,8 +1,10 @@
 # Pet Adoption Platform - Frontend Repository
 
-Welcome to the frontend repository of our Pet Adoption Platform, a comprehensive React-based web application aimed at facilitating the pet adoption process. This platform provides a seamless interface for users to browse pets available for adoption, manage pet listings, and handle user authentication. Additionally, for administrators, it offers a suite of tools to efficiently manage pet profiles, adoption statuses, and user interactions.
+This repository contains the frontend code for a project on a Pet Adoption Platform. It showcases a React and Material-UI based application, emphasizing frontend technologies and their integration with a Node.js backend.
 
-This frontend pairs with [Pet Adoption Backend Services](https://github.com/roistyx/pet-adoption-backend.git).
+## Backend Integration
+
+Frontend integrates with backend services for a comprehensive application. [Backend code is available at](https://github.com/roistyx/pet-adoption-backend.git).
 
 ## Key Features
 
