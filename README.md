@@ -19,10 +19,6 @@ Frontend integrates with backend services for a comprehensive application. [Back
 - **React Router**: Assumed for navigation between different parts of the application, providing a standardized approach to routing.
 - **Material-UI**: Utilized for designing components and layouts, offering a consistent and attractive user interface across the application.
 
-## Backend Services
-
-Our application interacts with a Node.js backend
-
 ## State Management
 
 The application employs React's Context API and the `useReducer` hook for state management, distributed across different contexts:
