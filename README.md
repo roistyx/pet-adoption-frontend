@@ -4,7 +4,7 @@ This repository contains the frontend code for a project on a Pet Adoption Platf
 
 ## Backend Integration
 
-Frontend integrates with backend services for a comprehensive application. [Backend code is available at](https://github.com/roistyx/pet-adoption-backend.git).
+Frontend integrates with backend services for a comprehensive application. [Backend code is available here](https://github.com/roistyx/pet-adoption-backend.git).
 
 ## Key Features
 
